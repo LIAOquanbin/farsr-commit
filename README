@@ -37,3 +37,5 @@ $ git remote add origin git@github.com:用户仓库全名.git
  将当前 master 分支推送到远程仓库中 origin 自定义的远程仓库名
 $ git push -u origin master
 
+再来一次吧
+
